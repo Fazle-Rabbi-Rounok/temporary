@@ -1,3 +1,4 @@
+//select the minimum and replace with ith position
 #include <bits/stdc++.h>
 using namespace std;
 void swap(int &a, int &b)
